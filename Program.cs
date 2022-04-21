@@ -6,7 +6,7 @@ namespace TemplateGenerator
     {
         static void Main(string[] args)
         {
-            Console.Write(Guid.NewGuid());
+            Console.WriteLine(Guid.NewGuid());
         }
     }
 }

@@ -1,0 +1,2 @@
+/Users/todd.alker/github_personal/guid-gen/.publish/guid-gen.pdb
+/Users/todd.alker/github_personal/guid-gen/.publish/guid-gen
