@@ -1,0 +1,13 @@
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/obj/Debug/netcoreapp2.2/osx.10.10-x64/Guid.csprojAssemblyReference.cache
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/obj/Debug/netcoreapp2.2/osx.10.10-x64/Guid.AssemblyInfoInputs.cache
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/obj/Debug/netcoreapp2.2/osx.10.10-x64/Guid.AssemblyInfo.cs
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/libhostpolicy.dylib
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/libhostfxr.dylib
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/Guid
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/Guid.deps.json
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/Guid.runtimeconfig.json
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/Guid.runtimeconfig.dev.json
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/Guid.dll
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/bin/Debug/netcoreapp2.2/osx.10.10-x64/Guid.pdb
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/obj/Debug/netcoreapp2.2/osx.10.10-x64/Guid.dll
+/Users/dks0519513/workflow-scripts/command-line-apps/Guid/obj/Debug/netcoreapp2.2/osx.10.10-x64/Guid.pdb
