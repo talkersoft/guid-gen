@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0DUznQWOs/s9ux37kwO+F6aSeFBwQZvt6L3niOzyug5yM8mvM8trL/VkMkv3dUwSS2OyfrFwcHYXdUmkWEJekw==",
+  "success": true,
+  "projectFilePath": "/Users/todd.alker/github_personal/guid-gen/guid-gen/guid-gen.csproj",
+  "expectedPackageFiles": [
+    "/Users/todd.alker/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.3/microsoft.netcore.app.runtime.osx-x64.6.0.3.nupkg.sha512",
+    "/Users/todd.alker/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.3/microsoft.aspnetcore.app.runtime.osx-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
